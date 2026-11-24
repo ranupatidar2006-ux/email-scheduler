@@ -270,3 +270,6 @@ Open the configured Bull Board URL after starting the backend.
 Ranu Vinod Patidar
 
 GitHub: https://github.com/ranupatidar2006-ux
+
+DEMO VIDEO
+Watch the Email Scheduler Demo : https://drive.google.com/file/d/1UltoUXVpfymyDlAbibV4riuyttM5inwL/view?usp=sharing
